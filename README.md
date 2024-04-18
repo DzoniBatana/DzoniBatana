@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DzoniBatana
 - 👀 I’m interested to be junior FrontEnd developer
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on internship or junior positon job
 - 📫 How contact me "pnikolaristic@gmail.com"
 
